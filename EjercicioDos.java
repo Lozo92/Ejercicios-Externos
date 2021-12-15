@@ -17,5 +17,11 @@ public class EjercicioDos {
         System.out.println("Sea \t mar");
         System.out.println("Earth \t tierra");
         System.out.println("Plane \t avion");
+
+
+        //Añadimos ahora tabulación de punto y aparte.
+
+        System.out.println("Cat \n gato");
+        System.out.println("Name \n nombre");
     }
 }
