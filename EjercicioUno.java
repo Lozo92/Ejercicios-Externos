@@ -11,5 +11,9 @@ public class EjercicioUno {
         //Modificación de programa para que, además, escriba la calle y el número de teléfono.
         System.out.println("Calle General");
         System.out.println("633888333");
+
+        //Añadir DNI y Ciudad
+        System.out.println("DNI: 33344456H");
+        System.out.println("Valencia");
     }
 }
