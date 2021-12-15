@@ -15,5 +15,6 @@ public class EjercicioUno {
         //Añadir DNI y Ciudad
         System.out.println("DNI: 33344456H");
         System.out.println("Valencia");
+        System.out.println("46025");
     }
 }
