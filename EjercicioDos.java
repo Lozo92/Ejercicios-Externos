@@ -23,5 +23,6 @@ public class EjercicioDos {
 
         System.out.println("Cat \n gato");
         System.out.println("Name \n nombre");
+        System.out.println("win \n ganar");
     }
 }
